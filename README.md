@@ -1,10 +1,10 @@
 <h1>Gymnasiums-part-2</h1>
 
 <h2>Description</h2>
-Utilisation de SQL sur une base de donnée  
+Using SQL on a database
 <br />
 
-<h2>Langages et Outils</h2>
+<h2>Languages and Tools</h2>
 
 - <b>SQL</b> 
 
@@ -12,91 +12,91 @@ Utilisation de SQL sur une base de donnée
 <h2>Code:</h2>
 
 <p align="center">
-gymnases de "VILLETANEUSE" ou de "SARCELLES" qui ont une surface de plus de 400 m2 ? : <br/>
+Gymnasium from "VILLETANEUSE" or "SARCELLES" with a surface bigger than 400 m2 ? : <br/>
 <img src="https://i.imgur.com/hucEntB.png" alt="table seances"/>             
 <br />
 <br />
-Quels sont les sportifs (nom et prénom) qui pratiquent (i.e. jouent) du hand ball ?  : <br/>
+Which athletes (first and last name) play handball?  : <br/>
 <img src="https://imgur.com/wc8Olxj.png" alt="handBall"/>
 <br />
 <br />
-Dans quels gymnases peut-on jouer au hockey le mercredi après 15H ? : <br/>
+In which gymnasium can we play hockey the Wednesday after 15h ? : <br/>
 <img src="https://imgur.com/JVy8gS1.png" alt="3"/>
 <br />
 <br />
-Quels gymnases proposent des séances de basket ball ou de volley ball ? : <br/>
+Which gymnasium offer basketball and volleyball sessions? : <br/>
 <img src="https://imgur.com/tW955ta.png" alt="4"/>
 <br />
 <br />
-Quels sont les entraineurs qui sont aussi joueurs ? : <br/>
+Which coaches are also players? : <br/>
 <img src="https://imgur.com/o0RDyvc.png" alt="5"/>
 <br />
 <br />
-Quels sont les sportifs qui sont des conseillers ? : <br/>
+Which athletes are advisors?: <br/>
 <img src="https://imgur.com/Sc3ZaFY.png" alt="6"/>
 <br />
 <br />
-Pour le sportif "Kervadec" quel est le nom de son conseiller ? : <br/>
+For the "Kervadec" athlete, what is the name of his advisor? ? : <br/>
 <img src="https://imgur.com/NpVaYrg.png" alt="7"/>
 <br />
 <br />
-Quels entraineurs entrainent du hand ball et du basket ball ? : <br/>
+Which coaches train handball and basketball? : <br/>
 <img src="https://imgur.com/lhiKIrK.png" alt="8"/>
 <br />
 <br />
-Quelle est la moyenne d’âge des sportives qui pratiquent du basket ball ? : <br/>
+What is the average age of female basketball players? : <br/>
 <img src="https://imgur.com/sVdBifl.png" alt="9"/>
 <br />
 <br />
-Quels sportifs (nom et prénom) ne pratiquent aucun sport ? : <br/>
+Which athletes (first and last name) do not practice any sport? : <br/>
 <img src="https://imgur.com/dOfFfwV.png" alt="10"/>
 <br />
 <br />
-Pour chaque sportif donner le nombre de sports qu'il arbitre : <br/>
+For each athlete, give the number of sports they referee  : <br/>
 <img src="https://imgur.com/v2asAOS.png" alt="11"/>
 <br />
 <br />
-Quels sont les gymnases ayant plus de 15 séances le mercredi ? : <br/>
+Which gyms have more than 15 Wednesday sessions? : <br/>
 <img src="https://imgur.com/uteK7kU.png" alt="12"/>
 <br />
 <br />
-Dans quels gymnases et quels jours y a-t’il au moins 4 séances de volley ball dans la journée : <br/>
+In which gymnasium and on which days are there at least 4 volleyball sessions during the day?  : <br/>
 <img src="https://imgur.com/qHdMEZQ.png" alt="13"/>
 <br />
 <br />
-Pour chaque entraîneur de hand ball quel est le nombre de séances journalières qu’il assure ? : <br/>
+For each handball coach, how many sessions per day does he or she provide? : <br/>
 <img src="https://imgur.com/qMCt64X.png" alt="14"/>
 <br />
 <br />
-Pour chaque gymnase de "MONTMORENCY" : quel est le nombre de séances journalières de chaque sport proposé ? : <br/>
+For each "MONTMORENCY" gymnasium: how many sessions a day are there for each sport on offer? : <br/>
 <img src="https://imgur.com/TY0SHee.png" alt="15"/>
 <br />
 <br />
-Quel est le sport pour lequel les joueurs sont les plus jeunes ? : <br/>
+Which sport has the youngest players?: <br/>
 <img src="https://imgur.com/dXf9ZH7.png" alt="16"/>
 <br />
 <br />
-Quels gymnases n'ont pas de séances le dimanche ? : <br/>
+Which gymnasiums don't have Sunday sessions? : <br/>
 <img src="https://imgur.com/A0XEFBa.png" alt="17"/>
 <br />
 <br />
-Pour chaque gymnase de "STAINS" donner par jour d’ouverture les horaires des premières et dernières séances : <br/>
+For each "STAINS" gym, give the times of the first and last sessions for each day it is open: <br/>
 <img src="https://imgur.com/fNFjqak.png" alt="18"/>
 <br />
 <br />
-Quels entraîneurs n’entraînent que du hand ball et/ou du basket ball, mais aucun autre sport ? : <br/>
+Which coaches only train handball and/or basketball, but no other sport? : <br/>
 <img src="https://imgur.com/YiaMEFy.png" alt="19"/>
 <br />
 <br />
-pour chaque sportif (nom et prénom) le nombre de sports qu'il joue, le nombre de sports qu'il arbitre, le nombre de sports qu'il entraîne : <br/>
+For each athlete (first and last name), the number of sports he/she plays, the number of sports he/she referees, the number of sports he/she coaches:: <br/>
 <img src="https://imgur.com/bruwybF.png" alt="20"/>
 <br />
 <br />
-Quels sont les couples de sportifs (Identifiant et nom et prénom de chaque sportif) ayant le même âge et le même conseiller ? : <br/>
+Which pairs of athletes (ID and first and last name of each athlete) have the same age and the same advisor? : <br/>
 <img src="https://imgur.com/hGTejFA.png" alt="21"/>
 <br />
 <br />
-Quels sont les plus grands gymnases de chaque ville ? : <br/>
+Which are the biggest gymnasiums in each city? : <br/>
 <img src="https://imgur.com/l8yp6lk.png" alt="22"/>
 <br />
 <br />
